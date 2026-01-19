@@ -1,0 +1,25 @@
+{
+  "Parent": "Default",
+  "World": {
+    "AllowBlockBreaking": false,
+    "AllowBlockGathering": false,
+    "AllowBlockPlacement": false,
+    "TotalMoonPhases": 8
+  },
+  "Death": {
+    "ItemsLossMode": "None",
+    "RespawnController": {
+      "Type": "WorldSpawnPoint"
+    }
+  },
+  "Combat": {
+    "DisableNPCIncomingDamage": true,
+    "DisablePlayerIncomingDamage": true
+  },
+  "Plugin": {
+    "ForgottenTemple": {
+      "MinYRespawn": 110,
+      "RespawnSound": "SFX_Divine_Respawn"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Group": "TechTastic",
+  "Name": "MoreMoonPhases",
+  "Version": "1.0.0",
+  "Description": "Adds the missing Waning Moon Phases!",
+  "Authors": [
+    {
+      "Name": "TechTastic"
+    }
+  ],
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+}
